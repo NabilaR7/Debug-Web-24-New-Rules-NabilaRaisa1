@@ -1,0 +1,23 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+body {
+  /*changed the background color*/
+  background: #e6d7ea;
+}
+h1 {
+  /*added 2 rules*/
+  font-weight: bold;
+  color: #83444e ;
+}
+h3 {
+  /*added 3 rules, border, and color and font-weight*/
+  font-weight: bold;
+  color: #834469 ;
+  border: 2px solid #7b4c67;;
+}
+p{
+  /* added color and font family*/
+  color:#572e53 ;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
